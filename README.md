@@ -9,10 +9,10 @@
 
 **------------------**
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Name        | Matric No.  |
+| :---        |     ----:   |
+| Maboyu      | 1711575     |
+| IRFAN AMRAN | 1923607     |
  
 ## Title: Real-time time Checking mobile application
 ### Project Name: R-Time
