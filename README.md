@@ -2,13 +2,6 @@
 ### This project is for the Final Assessment of INFO4335 section 1, Sem 1 2022/2023, Mobile Application developemt.
 
 **-- Group Members --**
-
-|   Maboyu 1711575   |
-
-| IRFAN AMRAN 1923607|
-
-**------------------**
-
 | Name        | Matric No.  |
 | :---        |     ----:   |
 | Maboyu      | 1711575     |
