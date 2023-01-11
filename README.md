@@ -8,6 +8,11 @@
 | IRFAN AMRAN 1923607|
 
 **------------------**
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
  
 ## Title: Real-time time Checking mobile application
 ### Project Name: R-Time
