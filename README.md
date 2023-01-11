@@ -17,11 +17,11 @@ This App is going to show the user what the real-time time of any country that u
 R-Time makes it easy for travelers to check the time difference between multiple countries.
 
 **Features & Functionalities:**
-1.World time API reference
-2.Error Handling
-3.Router
-4.Form?
-5.User login
+1. World time API reference
+2. Error Handling
+3. Router
+4. Form?
+5. User login
 
 **Sequence diagram:**
 
