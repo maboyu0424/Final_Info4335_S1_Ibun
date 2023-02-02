@@ -1,34 +1,16 @@
-# Final_Info4335_S1_Ibnu
-### This project is for the Final Assessment of INFO4335 section 1, Sem 1 2022/2023, Mobile Application developemt.
+# weatherapp_starter_project
 
-**-- Group Members --**
-| Name        | Matric No.  |
-| :---        |     ----:   |
-| Maboyu      | 1711575     |
-| IRFAN AMRAN | 1923607     |
- 
-## Title: Knowledge Checking mobile application
-### Project Name: K-checking
+A new Flutter project.
 
-**Introduction:**
-This app is going to be a study app, the user can choose any subject that we give in the app for the knowledge test, for example, math, C++ or English grammer test. And for the user, can then sign in it with their Google account.
+## Getting Started
 
-**Objective:**
-K-checking makes learning easier and easier for users.
+This project is a starting point for a Flutter application.
 
-**Features & Functionalities:**
-1. Google account API reference
-2. Error Handling
-3. Router
-4. Form?
-5. User login
-6. Firebase storage
+A few resources to get you started if this is your first Flutter project:
 
-**Sequence diagram:**
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-
-**Reference:**
-Build apps for any screen. Flutter. (n.d.). Retrieved January 11, 2023, from https://flutter.dev/
-
-Gülcüoğlu, E. , Ustun, A. B. & Seyhan, N. (2021). Comparison of Flutter and React Native Platforms . Journal of Internet Applications and Management , 12 (2) , 129-143 . DOI: 10.34231/iuyd.888243
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
